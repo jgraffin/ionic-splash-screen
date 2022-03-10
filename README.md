@@ -1,0 +1,1 @@
+# ionic-splash-screen
